@@ -1,0 +1,458 @@
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:41:20"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:41:25"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:00"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:03"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:05"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:08"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:11"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:13"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:16"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:17"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:21"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:23"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:42:28"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:39"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:41"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:45"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:46"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:51"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:52"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:42:57"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:43:02"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:05"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:07"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:43:12"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:15"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:19"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:43:24"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:33"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:34"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:43:39"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:50"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:43:55"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:44:00"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:46:37"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:46:40"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:46:45"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:46:51"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:46:56"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 16:47:30"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 16:47:35"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 17:00:06"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 17:00:09"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 17:00:14"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 17:00:52"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 17:00:57"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 17:26:44"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 17:26:49"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 17:27:07"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-28 17:27:12"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 19:43:58"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:09:14"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:09:14"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:09:14"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:09:14"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:18:01"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:18:01"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:18:01"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:18:01"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:40:43"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:40:43"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:40:43"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:40:43"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:40:45"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:40:46"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:40:46"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:40:46"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:41:59"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:41:59"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:41:59"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:41:59"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:47:51"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:47:51"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:47:51"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:47:51"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:47:56"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:47:56"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:47:56"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:47:56"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:51:17"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:51:17"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:51:17"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:51:17"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:54:44"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:54:44"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:54:44"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:54:44"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:55:09"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:55:09"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:55:09"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:55:09"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:56:21"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:56:21"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:56:21"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:56:21"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 20:58:52"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 20:58:52"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 20:58:52"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 20:58:52"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 21:02:25"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 21:02:25"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 21:02:25"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 21:02:25"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 21:12:07"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 21:12:07"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 21:12:07"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 21:12:07"}
+{"level":"warn","message":"GET /favicon.ico — 404: Route not found: GET /favicon.ico","timestamp":"2026-05-28 21:21:41"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 22:06:25"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 22:06:25"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 22:06:25"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 22:06:25"}
+{"level":"warn","message":"GET /style.css — 404: Route not found: GET /style.css","timestamp":"2026-05-28 22:12:47"}
+{"level":"warn","message":"GET /style.css — 404: Route not found: GET /style.css","timestamp":"2026-05-28 22:15:25"}
+{"level":"warn","message":"GET /favicon.ico — 404: Route not found: GET /favicon.ico","timestamp":"2026-05-28 22:15:26"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:37"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:37"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:37"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:37"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:54"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:54"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:55"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 22:46:55"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 22:54:08"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 22:54:08"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 22:56:27"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 22:56:27"}
+{"level":"warn","message":"GET / — 404: Route not found: GET /","timestamp":"2026-05-28 23:06:15"}
+{"level":"warn","message":"GET /favicon.ico — 404: Route not found: GET /favicon.ico","timestamp":"2026-05-28 23:06:15"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:29:15"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:29:15"}
+{"level":"warn","message":"GET / — 404: Route not found: GET /","timestamp":"2026-05-28 23:31:26"}
+{"level":"warn","message":"GET / — 404: Route not found: GET /","timestamp":"2026-05-28 23:38:09"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 23:40:13"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 23:40:13"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-28 23:41:26"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-28 23:41:26"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-28 23:41:26"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-28 23:41:26"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:46:14"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:46:14"}
+{"level":"warn","message":"GET /main.7230cf37f932c58c1ac3.hot-update.json — 404: Route not found: GET /main.7230cf37f932c58c1ac3.hot-update.json","timestamp":"2026-05-28 23:50:08"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:50:08"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-28 23:50:08"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:06:02"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:06:02"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:06:02"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:06:02"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:08:58"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:08:58"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:08:58"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:08:58"}
+{"level":"warn","message":"GET /main.8733225dcda2430877c3.hot-update.json — 404: Route not found: GET /main.8733225dcda2430877c3.hot-update.json","timestamp":"2026-05-29 00:09:07"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:09:07"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:09:07"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 00:09:07"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 00:09:07"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-29 01:02:55"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2026-05-29 07:33:05"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect...","timestamp":"2026-05-29 12:08:00"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2026-05-29 12:08:10"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:10:43"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 12:10:43"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:10:43"}
+{"level":"warn","message":"GET /api/v1/health — 404: Route not found: GET /api/v1/health","timestamp":"2026-05-29 12:10:43"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 12:15:41"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"Seeded default categories.","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"Seeded default product menu.","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 12:15:55"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 12:16:05"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 12:18:55"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 12:18:55"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 12:18:56"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 12:18:56"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 12:18:56"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 12:32:00"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 12:32:10"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 12:32:10"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 12:32:10"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 12:32:10"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 12:32:10"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:32:44"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:32:44"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:32:53"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:32:58"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:34:11"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:34:11"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:34:21"}
+{"level":"warn","message":"GET /main.f2bd1db64daf959afd8f.hot-update.json — 404: Route not found: GET /main.f2bd1db64daf959afd8f.hot-update.json","timestamp":"2026-05-29 12:44:36"}
+{"level":"warn","message":"GET /main.6a3bcdfd9b0c5055c6d4.hot-update.json — 404: Route not found: GET /main.6a3bcdfd9b0c5055c6d4.hot-update.json","timestamp":"2026-05-29 12:54:05"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:58:42"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:58:42"}
+{"level":"warn","message":"GET /main.cf377e4044a8873fb3c1.hot-update.json — 404: Route not found: GET /main.cf377e4044a8873fb3c1.hot-update.json","timestamp":"2026-05-29 12:59:01"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:59:01"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:59:01"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:59:01"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 12:59:01"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:14"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:14"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:15"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:15"}
+{"level":"warn","message":"GET /main.37d29ed35f1c917fc2b4.hot-update.json — 404: Route not found: GET /main.37d29ed35f1c917fc2b4.hot-update.json","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /main.37d29ed35f1c917fc2b4.hot-update.json — 404: Route not found: GET /main.37d29ed35f1c917fc2b4.hot-update.json","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:29"}
+{"level":"warn","message":"POST /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 13:04:51"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:05:23"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:05:31"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:05:34"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:05:40"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:05:49"}
+{"level":"warn","message":"POST /api/v1/auth/register — 409: Email already registered.","timestamp":"2026-05-29 13:06:57"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 13:20:13"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 13:20:18"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 13:20:18"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 13:20:18"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 13:20:18"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 13:20:18"}
+{"level":"warn","message":"GET /main.1ac84a6a13259b55538b.hot-update.json — 404: Route not found: GET /main.1ac84a6a13259b55538b.hot-update.json","timestamp":"2026-05-29 13:27:02"}
+{"level":"warn","message":"GET /main.ecdf2aad0da8ab93a4cf.hot-update.json — 404: Route not found: GET /main.ecdf2aad0da8ab93a4cf.hot-update.json","timestamp":"2026-05-29 13:34:43"}
+{"level":"warn","message":"GET /main.ecdf2aad0da8ab93a4cf.hot-update.json — 404: Route not found: GET /main.ecdf2aad0da8ab93a4cf.hot-update.json","timestamp":"2026-05-29 13:34:43"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 13:38:09"}
+{"level":"warn","message":"GET /main.ce3fecf067ce906e08b0.hot-update.json — 404: Route not found: GET /main.ce3fecf067ce906e08b0.hot-update.json","timestamp":"2026-05-29 13:38:51"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:15:39"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:15:39"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:15:39"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:15:39"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:16:27"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:16:27"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:16:27"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:16:27"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:30"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:30"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:30"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:30"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:41"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:41"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:58"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:19:58"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:20:08"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:20:08"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:20:58"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:20:58"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:21:21"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:21:21"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:02"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:02"}
+{"level":"warn","message":"GET /main.c4bdb471c496a0d1868d.hot-update.json — 404: Route not found: GET /main.c4bdb471c496a0d1868d.hot-update.json","timestamp":"2026-05-29 14:23:35"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:35"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 14:23:36"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 14:24:23"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 14:24:36"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 15:04:54"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 15:04:59"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 15:04:59"}
+{"level":"info","message":"Serving frontend from C:\\Users\\SANGEETHA\\Downloads\\food\\mnt\\user-data\\outputs\\client\\build","timestamp":"2026-05-29 15:04:59"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 15:04:59"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 15:04:59"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 15:04:59"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:06:51"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:06:51"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:06:51"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:06:51"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:31:48"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:31:49"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:31:49"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:31:49"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:32:37"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:32:37"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:32:37"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:32:37"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:33:37"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:33:37"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:33:37"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:33:37"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:38:41"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:38:41"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:38:41"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:38:41"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:40"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:40"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:41"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:41"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:41"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 15:41:41"}
+{"level":"warn","message":"GET /main.1b47663fceebc1402c8c.hot-update.json — 404: Route not found: GET /main.1b47663fceebc1402c8c.hot-update.json","timestamp":"2026-05-29 15:41:56"}
+{"level":"warn","message":"GET /main.1b47663fceebc1402c8c.hot-update.json — 404: Route not found: GET /main.1b47663fceebc1402c8c.hot-update.json","timestamp":"2026-05-29 15:41:56"}
+{"level":"warn","message":"GET /main.1b47663fceebc1402c8c.hot-update.json — 404: Route not found: GET /main.1b47663fceebc1402c8c.hot-update.json","timestamp":"2026-05-29 15:41:56"}
+{"level":"warn","message":"GET /main.1b47663fceebc1402c8c.hot-update.json — 404: Route not found: GET /main.1b47663fceebc1402c8c.hot-update.json","timestamp":"2026-05-29 15:41:56"}
+{"level":"warn","message":"GET /main.0a97ec78fc1846dba9a1.hot-update.json — 404: Route not found: GET /main.0a97ec78fc1846dba9a1.hot-update.json","timestamp":"2026-05-29 15:53:42"}
+{"level":"warn","message":"GET /main.0a97ec78fc1846dba9a1.hot-update.json — 404: Route not found: GET /main.0a97ec78fc1846dba9a1.hot-update.json","timestamp":"2026-05-29 15:53:42"}
+{"level":"warn","message":"GET /main.0a97ec78fc1846dba9a1.hot-update.json — 404: Route not found: GET /main.0a97ec78fc1846dba9a1.hot-update.json","timestamp":"2026-05-29 15:53:42"}
+{"level":"warn","message":"GET /main.0a97ec78fc1846dba9a1.hot-update.json — 404: Route not found: GET /main.0a97ec78fc1846dba9a1.hot-update.json","timestamp":"2026-05-29 15:53:42"}
+{"level":"warn","message":"GET /main.0a97ec78fc1846dba9a1.hot-update.json — 404: Route not found: GET /main.0a97ec78fc1846dba9a1.hot-update.json","timestamp":"2026-05-29 15:53:42"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"GET /main.5e40edc9053ad1c0ba33.hot-update.json — 404: Route not found: GET /main.5e40edc9053ad1c0ba33.hot-update.json","timestamp":"2026-05-29 16:26:17"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 16:36:06"}
+{"level":"warn","message":"GET /main.e69e15da6c92d9abe02b.hot-update.json — 404: Route not found: GET /main.e69e15da6c92d9abe02b.hot-update.json","timestamp":"2026-05-29 16:55:00"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 16:55:19"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 16:55:25"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 16:55:38"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 16:55:39"}
+{"level":"warn","message":"GET /main.d23dd389dc4caaae113f.hot-update.json — 404: Route not found: GET /main.d23dd389dc4caaae113f.hot-update.json","timestamp":"2026-05-29 16:56:50"}
+{"level":"warn","message":"GET /main.d23dd389dc4caaae113f.hot-update.json — 404: Route not found: GET /main.d23dd389dc4caaae113f.hot-update.json","timestamp":"2026-05-29 16:56:50"}
+{"level":"warn","message":"GET /main.2e4fa4bd2aa9685d51a5.hot-update.json — 404: Route not found: GET /main.2e4fa4bd2aa9685d51a5.hot-update.json","timestamp":"2026-05-29 17:09:29"}
+{"level":"warn","message":"GET /main.2e4fa4bd2aa9685d51a5.hot-update.json — 404: Route not found: GET /main.2e4fa4bd2aa9685d51a5.hot-update.json","timestamp":"2026-05-29 17:09:29"}
+{"level":"warn","message":"GET /main.2e4fa4bd2aa9685d51a5.hot-update.json — 404: Route not found: GET /main.2e4fa4bd2aa9685d51a5.hot-update.json","timestamp":"2026-05-29 17:09:29"}
+{"level":"warn","message":"GET /main.e5eb805862dd16724135.hot-update.json — 404: Route not found: GET /main.e5eb805862dd16724135.hot-update.json","timestamp":"2026-05-29 17:09:51"}
+{"level":"warn","message":"GET /main.e5eb805862dd16724135.hot-update.json — 404: Route not found: GET /main.e5eb805862dd16724135.hot-update.json","timestamp":"2026-05-29 17:09:51"}
+{"level":"warn","message":"GET /main.e5eb805862dd16724135.hot-update.json — 404: Route not found: GET /main.e5eb805862dd16724135.hot-update.json","timestamp":"2026-05-29 17:09:51"}
+{"level":"warn","message":"GET /main.e5eb805862dd16724135.hot-update.json — 404: Route not found: GET /main.e5eb805862dd16724135.hot-update.json","timestamp":"2026-05-29 17:09:51"}
+{"level":"warn","message":"GET /main.e5eb805862dd16724135.hot-update.json — 404: Route not found: GET /main.e5eb805862dd16724135.hot-update.json","timestamp":"2026-05-29 17:09:51"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 17:10:44"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"GET /main.53c9c3d5203a3e8d000e.hot-update.json — 404: Route not found: GET /main.53c9c3d5203a3e8d000e.hot-update.json","timestamp":"2026-05-29 17:19:38"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 17:20:14"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:22:47"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect email or password.","timestamp":"2026-05-29 17:23:07"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:23:47"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:23:52"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:23:56"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:24:54"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:25:05"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:25:09"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"GET /main.44ee79b3bcbd11957d48.hot-update.json — 404: Route not found: GET /main.44ee79b3bcbd11957d48.hot-update.json","timestamp":"2026-05-29 17:27:42"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:29:01"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:29:06"}
+{"level":"warn","message":"GET /main.ddda460ccb5f1f93e5e3.hot-update.json — 404: Route not found: GET /main.ddda460ccb5f1f93e5e3.hot-update.json","timestamp":"2026-05-29 17:34:44"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:29"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:34"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:39"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:39"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:43"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:47"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:35:52"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:36:46"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:36:50"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:36:54"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:36:58"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:03"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:03"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:07"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:07"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:07"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:07"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 404: Route not found: POST /api/v1/auth/reset-password","timestamp":"2026-05-29 17:37:07"}
+{"level":"warn","message":"GET /api/v1/api/v1/health — 404: Route not found: GET /api/v1/api/v1/health","timestamp":"2026-05-29 17:41:51"}
+{"level":"warn","message":"GET /api/v1/api/v1/products — 404: Route not found: GET /api/v1/api/v1/products","timestamp":"2026-05-29 17:41:51"}
+{"level":"error","message":"POST /api/v1/auth/reset-password — CORS: origin 'http://localhost:5000/' not allowed","stack":"Error: CORS: origin 'http://localhost:5000/' not allowed\n    at origin (C:\\Users\\SANGEETHA\\Downloads\\food\\app.js:48:10)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:286:9\n    at router.process_params (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at serveStatic (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\serve-static\\index.js:75:16)","timestamp":"2026-05-29 18:47:15"}
+{"level":"error","message":"POST /api/v1/auth/reset-password — CORS: origin 'http://localhost:5000/' not allowed","stack":"Error: CORS: origin 'http://localhost:5000/' not allowed\n    at origin (C:\\Users\\SANGEETHA\\Downloads\\food\\app.js:48:10)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:286:9\n    at router.process_params (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at serveStatic (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\serve-static\\index.js:75:16)","timestamp":"2026-05-29 18:47:33"}
+{"level":"error","message":"POST /api/v1/auth/reset-password — CORS: origin 'http://localhost:5000/' not allowed","stack":"Error: CORS: origin 'http://localhost:5000/' not allowed\n    at origin (C:\\Users\\SANGEETHA\\Downloads\\food\\app.js:48:10)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:286:9\n    at router.process_params (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at serveStatic (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\serve-static\\index.js:75:16)","timestamp":"2026-05-29 18:50:40"}
+{"level":"warn","message":"GET /main.3cb6edab9be2c9669f1f.hot-update.json — 404: Route not found: GET /main.3cb6edab9be2c9669f1f.hot-update.json","timestamp":"2026-05-29 18:58:57"}
+{"level":"error","message":"POST /api/v1/api/v1/auth/reset-password — CORS: origin 'http://localhost:5000/' not allowed","stack":"Error: CORS: origin 'http://localhost:5000/' not allowed\n    at origin (C:\\Users\\SANGEETHA\\Downloads\\food\\app.js:48:10)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:286:9\n    at router.process_params (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at serveStatic (C:\\Users\\SANGEETHA\\Downloads\\food\\node_modules\\serve-static\\index.js:75:16)","timestamp":"2026-05-29 18:59:25"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 19:01:33"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 19:01:38"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 19:01:38"}
+{"level":"info","message":"Serving frontend from C:\\Users\\SANGEETHA\\Downloads\\food\\mnt\\user-data\\outputs\\client\\build","timestamp":"2026-05-29 19:01:38"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 19:01:38"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 19:01:38"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 19:01:38"}
+{"level":"warn","message":"POST /api/v1/api/v1/auth/reset-password — 404: Route not found: POST /api/v1/api/v1/auth/reset-password","timestamp":"2026-05-29 19:02:21"}
+{"level":"warn","message":"POST /api/v1/api/v1/auth/reset-password — 404: Route not found: POST /api/v1/api/v1/auth/reset-password","timestamp":"2026-05-29 19:02:34"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 19:06:29"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 19:06:33"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 19:06:33"}
+{"level":"info","message":"Serving frontend from C:\\Users\\SANGEETHA\\Downloads\\food\\mnt\\user-data\\outputs\\client\\build","timestamp":"2026-05-29 19:06:33"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 19:06:33"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 19:06:33"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 19:06:33"}
+{"level":"warn","message":"GET /main.48439fc396b07a216a03.hot-update.json — 404: Route not found: GET /main.48439fc396b07a216a03.hot-update.json","timestamp":"2026-05-29 19:06:55"}
+{"level":"warn","message":"GET /main.48439fc396b07a216a03.hot-update.json — 404: Route not found: GET /main.48439fc396b07a216a03.hot-update.json","timestamp":"2026-05-29 19:06:55"}
+{"level":"warn","message":"GET /main.48439fc396b07a216a03.hot-update.json — 404: Route not found: GET /main.48439fc396b07a216a03.hot-update.json","timestamp":"2026-05-29 19:06:55"}
+{"level":"warn","message":"POST /api/v1/auth/reset-password — 400: Phone number is required to reset this account.","timestamp":"2026-05-29 19:07:24"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-05-29 19:25:30"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 19:25:34"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 19:25:34"}
+{"level":"info","message":"Serving frontend from C:\\Users\\SANGEETHA\\Downloads\\food\\mnt\\user-data\\outputs\\client\\build","timestamp":"2026-05-29 19:25:34"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 19:25:34"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 19:25:34"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 19:25:34"}
+{"level":"warn","message":"GET /main.46e34cde036f212a3bd4.hot-update.json — 404: Route not found: GET /main.46e34cde036f212a3bd4.hot-update.json","timestamp":"2026-05-29 19:25:56"}
+{"level":"warn","message":"GET /main.46e34cde036f212a3bd4.hot-update.json — 404: Route not found: GET /main.46e34cde036f212a3bd4.hot-update.json","timestamp":"2026-05-29 19:25:56"}
+{"level":"warn","message":"GET /main.46e34cde036f212a3bd4.hot-update.json — 404: Route not found: GET /main.46e34cde036f212a3bd4.hot-update.json","timestamp":"2026-05-29 19:25:56"}
+{"level":"warn","message":"GET /main.46e34cde036f212a3bd4.hot-update.json — 404: Route not found: GET /main.46e34cde036f212a3bd4.hot-update.json","timestamp":"2026-05-29 19:25:56"}
+{"level":"warn","message":"POST /api/v1/auth/login — 401: Incorrect password.","timestamp":"2026-05-29 19:26:18"}
+{"level":"warn","message":"GET /main.09122722e55ec747976c.hot-update.json — 404: Route not found: GET /main.09122722e55ec747976c.hot-update.json","timestamp":"2026-05-29 19:37:35"}
+{"level":"warn","message":"GET /main.09122722e55ec747976c.hot-update.json — 404: Route not found: GET /main.09122722e55ec747976c.hot-update.json","timestamp":"2026-05-29 19:37:35"}
+{"level":"warn","message":"GET /main.09122722e55ec747976c.hot-update.json — 404: Route not found: GET /main.09122722e55ec747976c.hot-update.json","timestamp":"2026-05-29 19:37:35"}
+{"level":"warn","message":"GET /main.09122722e55ec747976c.hot-update.json — 404: Route not found: GET /main.09122722e55ec747976c.hot-update.json","timestamp":"2026-05-29 19:37:35"}
+{"level":"warn","message":"GET /main.09122722e55ec747976c.hot-update.json — 404: Route not found: GET /main.09122722e55ec747976c.hot-update.json","timestamp":"2026-05-29 19:37:35"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /main.06ee74967bee5c823ec4.hot-update.json — 404: Route not found: GET /main.06ee74967bee5c823ec4.hot-update.json","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:55"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:56"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:41:56"}
+{"level":"warn","message":"GET /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:21"}
+{"level":"warn","message":"GET /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:21"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:33"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:36"}
+{"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:37"}
+{"level":"warn","message":"POST /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:51"}
