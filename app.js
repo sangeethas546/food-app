@@ -30,19 +30,44 @@ app.set("trust proxy", 1);
 app.use(
   helmet({
     crossOriginResourcePolicy: { policy: "cross-origin" },
-  })
+   })
 );
 
+   app.use(express.static("public"));
+
 // ─── CORS ─────────────────────────────────────────────────────────────────────
-const allowedOrigins = (process.env.CLIENT_ORIGIN || "http://localhost:3000")
-  .split(",")
-  .map((o) => o.trim());
+const normalizeOrigin = (value) =>
+  typeof value === "string" ? value.trim().replace(/\/+$|\s+$/g, "") : value;
+const allowedOrigins = new Set([
+  "http://localhost:3000",
+  "http://localhost:5000",
+  "http://127.0.0.1:3000",
+  "http://127.0.0.1:5000",
+]);
+
+if (process.env.CLIENT_ORIGIN) {
+  process.env.CLIENT_ORIGIN
+    .split(",")
+    .map((o) => normalizeOrigin(o))
+    .forEach((origin) => {
+      if (origin) allowedOrigins.add(origin);
+    });
+}
+
+const isLocalhostOrigin = (origin) => {
+  if (!origin) return false;
+  const normalized = normalizeOrigin(origin).toLowerCase();
+  return normalized.includes("localhost") || normalized.includes("127.0.0.1");
+};
 
 app.use(
   cors({
     origin: (origin, cb) => {
-      // Allow server-to-server requests (no origin header) and listed origins
-      if (!origin || allowedOrigins.includes(origin)) return cb(null, true);
+      if (!origin) return cb(null, true);
+      const normalizedOrigin = normalizeOrigin(origin);
+      if (allowedOrigins.has(normalizedOrigin) || isLocalhostOrigin(normalizedOrigin)) {
+        return cb(null, true);
+      }
       cb(new Error(`CORS: origin '${origin}' not allowed`));
     },
     credentials: true,
@@ -50,7 +75,9 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
-
+app.get('/', (req, res) => {
+  res.send('server working');
+});
 // ─── Global rate limiter ───────────────────────────────────────────────────────
 const globalLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
@@ -101,16 +128,20 @@ if (process.env.NODE_ENV === "development") {
 app.use("/uploads", express.static("uploads"));
 
 // ─── Health check (no auth, no rate limit) ────────────────────────────────────
-app.get("/api/health", (req, res) => {
+const apiHealthResponse = (req, res) => {
   res.status(200).json({
     success: true,
     message: "Server is running",
     environment: process.env.NODE_ENV,
     timestamp: new Date().toISOString(),
   });
-});
+};
+
+app.get("/api/health", apiHealthResponse);
+app.get("/api/v1/health", apiHealthResponse);
 
 // ─── API Routes ───────────────────────────────────────────────────────────────
+app.use("/auth", authLimiter, authRoutes);
 app.use("/api/v1/auth", authLimiter, authRoutes);
 app.use("/api/v1/users", userRoutes);
 app.use("/api/v1/products", productRoutes);

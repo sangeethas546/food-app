@@ -18,7 +18,7 @@ exports.addToCart = asyncHandler(async (req, res, next) => {
   }
 
   const product = await Product.findById(productId);
-  if (!product || !product.isAvailable) {
+  if (!product || product.isAvailable === false) {
     return next(new AppError("Product not available.", 404));
   }
 

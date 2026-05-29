@@ -1,9 +1,14 @@
 const Product = require("../models/Product");
+const Category = require("../models/Category");
 const { AppError, asyncHandler } = require("../middleware/error");
 
 exports.getProducts = asyncHandler(async (req, res) => {
   const filter = {};
-  if (req.query.category) filter.category = req.query.category;
+  if (req.query.category) {
+    const categoryName = req.query.category.trim();
+    const category = await Category.findOne({ name: new RegExp(`^${categoryName}$`, "i") });
+    filter.category = category ? category._id : req.query.category;
+  }
   if (req.query.available) filter.isAvailable = req.query.available === "true";
 
   const products = await Product.find(filter).populate("category");
