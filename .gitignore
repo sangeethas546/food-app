@@ -1,1 +1,11 @@
-node_modules
+node_modules/
+logs/
+uploads/
+.env
+.DS_Store
+
+# React client build output
+mnt/user-data/outputs/client/build/
+
+# React client dependencies
+mnt/user-data/outputs/client/node_modules/
