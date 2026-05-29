@@ -470,3 +470,13 @@
 {"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
 {"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
 {"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
+{"level":"warn","message":"GET /api/menu/notfound — 404: Product not found.","timestamp":"2026-05-29 22:42:49"}
+{"level":"warn","message":"POST /api/orders — 400: Your cart is empty.","timestamp":"2026-05-29 22:42:49"}
+{"level":"warn","message":"POST /api/orders — 400: Shipping address and payment method are required.","timestamp":"2026-05-29 22:42:49"}
+{"level":"warn","message":"PUT /api/orders/missing/payment — 404: Order not found.","timestamp":"2026-05-29 22:42:49"}
+{"level":"warn","message":"PATCH /api/orders/order556/status — 400: Invalid order status.","timestamp":"2026-05-29 22:42:49"}
+{"level":"warn","message":"GET /api/menu/notfound — 404: Product not found.","timestamp":"2026-05-29 22:43:30"}
+{"level":"warn","message":"POST /api/orders — 400: Your cart is empty.","timestamp":"2026-05-29 22:43:30"}
+{"level":"warn","message":"POST /api/orders — 400: Shipping address and payment method are required.","timestamp":"2026-05-29 22:43:30"}
+{"level":"warn","message":"PUT /api/orders/missing/payment — 404: Order not found.","timestamp":"2026-05-29 22:43:30"}
+{"level":"warn","message":"PATCH /api/orders/order556/status — 400: Invalid order status.","timestamp":"2026-05-29 22:43:30"}
