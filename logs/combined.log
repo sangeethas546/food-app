@@ -456,3 +456,17 @@
 {"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:36"}
 {"level":"warn","message":"POST /api/v1/cart — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:37"}
 {"level":"warn","message":"POST /api/v1/orders — 401: Token expired. Please log in again.","timestamp":"2026-05-29 19:42:51"}
+{"level":"info","message":"Socket.io order tracking namespace registered at /orders","timestamp":"2026-05-29 19:43:35"}
+{"level":"info","message":"MongoDB connected: 127.0.0.1 (development)","timestamp":"2026-05-29 19:43:35"}
+{"level":"info","message":"Serving frontend from C:\\Users\\SANGEETHA\\Downloads\\food\\mnt\\user-data\\outputs\\client\\build","timestamp":"2026-05-29 19:43:35"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2026-05-29 19:43:35"}
+{"level":"info","message":"Health check: http://localhost:5000/api/health","timestamp":"2026-05-29 19:43:35"}
+{"level":"info","message":"API root: http://localhost:5000/api/v1","timestamp":"2026-05-29 19:43:35"}
+{"level":"warn","message":"POST /api/v1/auth/login — 404: No user found with that email.","timestamp":"2026-05-29 19:45:06"}
+{"level":"warn","message":"GET /main.139d1a6cd6db731f17db.hot-update.json — 404: Route not found: GET /main.139d1a6cd6db731f17db.hot-update.json","timestamp":"2026-05-29 19:49:35"}
+{"level":"warn","message":"GET /main.10c6ee2e2cdfa83d8d73.hot-update.json — 404: Route not found: GET /main.10c6ee2e2cdfa83d8d73.hot-update.json","timestamp":"2026-05-29 19:55:16"}
+{"level":"warn","message":"GET /main.281fde78de710100867a.hot-update.json — 404: Route not found: GET /main.281fde78de710100867a.hot-update.json","timestamp":"2026-05-29 19:59:11"}
+{"level":"warn","message":"GET /main.281fde78de710100867a.hot-update.json — 404: Route not found: GET /main.281fde78de710100867a.hot-update.json","timestamp":"2026-05-29 19:59:11"}
+{"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
+{"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
+{"level":"warn","message":"GET /main.8cf79c014f6d85af657f.hot-update.json — 404: Route not found: GET /main.8cf79c014f6d85af657f.hot-update.json","timestamp":"2026-05-29 20:01:35"}
